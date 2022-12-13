@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/vue/vueRechercheResto.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/modele/metier/Critique.class.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/vue/vueDetailResto.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/vue/vueAccueil.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/vue/vueListeRestos.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/modele/dao/CritiqueDAO.class.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/modele/metier/Photo.class.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/tests/dao/testUtilisateurDAO.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/controleur/listeRestos.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/controleur/accueil.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/modele/metier/Resto.class.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/modele/dao/RestoDAO.class.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/modele/dao/TypeDAO.class.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/controleur/detailResto.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/modele/dao/UtilisateurDAO.class.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/includes/autoload.inc.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/controleur/rechercheResto.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/modele/dao/Bdd.class.php</file>
+            <file>file:/C:/Users/adminSLAM/Desktop/phpprojectresto2022/phpprojectresto2022/modele/metier/Type.class.php</file>
+        </group>
+    </open-files>
+</project-private>
