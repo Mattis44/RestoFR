@@ -69,7 +69,7 @@ class TypeDAO {
                 // Pour chaque enregistrement
                 while ($enreg = $stmt->fetch(PDO::FETCH_ASSOC)) {
                     //Instancier un nouveau restaurant et l'ajouter à la liste
-                    $lesTypes[] = new Type($enreg['idT'], $enreg['libelleTC']);
+                    $lesTypes[] = new Type($enreg['idTC'], $enreg['libelleTC']);
                 }
             }
 

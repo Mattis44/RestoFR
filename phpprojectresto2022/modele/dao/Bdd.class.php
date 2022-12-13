@@ -19,7 +19,7 @@ class Bdd {
     private static ?PDO $pdo=null;
     private static $login = "resto_util";   // login utilisateur de la BDD
     private static $mdp = "secret";         // mdp  utilisateur de la BDD
-    private static $bd = "resto2";          // nom de la BDD
+    private static $bd = "resto";          // nom de la BDD
     private static $serveur = "localhost";  // nom de domaine du serveur de BDD
     private static $pdoOptions = array  (
         PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8"   // pour récupérer les données en UTF8
